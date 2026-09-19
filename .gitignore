@@ -1,0 +1,4 @@
+/target
+
+# Binary produced by `rustc hello.rs`
+/hello
